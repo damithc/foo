@@ -2,7 +2,7 @@ name: Issue Digest
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # runs once at 00:00 daily
+    - cron: '10 * * * *'  # runs once at 00:00 daily
 
 jobs:
   issue-digest:

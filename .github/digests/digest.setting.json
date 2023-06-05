@@ -1,6 +1,6 @@
 {
-    "target_repo": "",
-    "my_repo": "damithc/foo",
-    "target_issue": "I_kwDOBbGdF85nvcKj",
-    "ignore_list": []
+    "digest_issue": "I_kwDOBbGdF85n0zc4",
+    "ignored_issues": [
+        117
+    ]
 }

@@ -10,4 +10,4 @@ jobs:
 
     steps:
       - name: Run Issue Digest Action
-        uses: Eclipse-Dominator/Github_Digest@master
+        uses: nus-oss/GithubDigest@master
